@@ -3,7 +3,11 @@
 
 >This project sends an SMS with details of notification you received on Github
 
-You can setup a cronjob to get notified periodically.
+##Requirments
+* Twilio Account
+* Github Api Access token
+* VM/Server for cronjob
+
 
 ####To setup a **cronjob**
 
