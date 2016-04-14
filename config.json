@@ -1,0 +1,12 @@
+{
+    "github": {
+        "access_token": "Access token from github"
+    },
+    "twilio": {
+        "token": " XXXXX (auth_token from twilio) ",
+        "from_number": " XXXXXX (from_number allotted by twilio) ",
+        "to_number": " XXXXX (to_number where mesaage will be send) ",
+        "sid": " XXXX (account_sid by twilio) "
+    },
+    
+}
