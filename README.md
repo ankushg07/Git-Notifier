@@ -3,7 +3,7 @@
 
 >This project sends an SMS with details of notification you received on Github
 
-You can setup a cronjob to get notfied periodically.
+You can setup a cronjob to get notified periodically.
 
 ####To setup a **cronjob**
 
